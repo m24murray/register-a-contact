@@ -15,10 +15,10 @@ Also see the custom instuctions at `.github/instructions/projectname.instruction
 ## Useful keyboard shortcuts
 
 **From editor view**
-`⌃⌘I` open Copilot Chat view
-`⌘⇧P -> Run prompt` run a specific prompt
-`⌘⇧P -> Create prompt` create a new prompt
+* `⌃⌘I` open Copilot Chat view. 
+* `⌘⇧P -> Run prompt` run a specific prompt. 
+* `⌘⇧P -> Create prompt` create a new prompt. 
 
 **From chat view**
-`/prompt-name` execute prompt
-`/explain` explain selected text, file, snippet of code
+* `/prompt-name` execute prompt. 
+* `/explain` explain selected text, file, snippet of code. 
