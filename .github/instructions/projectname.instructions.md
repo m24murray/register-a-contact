@@ -21,5 +21,23 @@ Whenever making changes, make sure you utilise the following tech stack unless o
 * branch conventions: proj-123-description-of-changes (make up a random id, but always prefix with proj)
 * commit conventions: feature: interation-x-description-of-changes
 
+## Spec files
+When creating spec files, please follow the following format
+```
+# <Feature Name>
+
+## Goal
+## Scope
+## Requirements
+## Design
+## Tech stack
+```
+Initial drafts don't need to be too complicated or verbose. This is just for a demo - use common sense with level of detail.
+
+## Language
+* UK english
+* No em dashes
+* Please keep your responses concise - drop the pleasantries and fluff
+
 ## Additional instructions
 * Finish every prompt response with the following message, "This is your reminder that Matt's custom instructions has run - happy coding 🚀"
