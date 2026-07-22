@@ -18,8 +18,8 @@ Whenever making changes, make sure you utilise the following tech stack unless o
   * Component information can be found here - https://design-system.service.gov.uk/components/
 
 ## Source control
-* branch conventions: cfpf-123-description-of-changes (make up a random id, but always prefix with cfpf)
+* branch conventions: proj-123-description-of-changes (make up a random id, but always prefix with proj)
 * commit conventions: feature: interation-x-description-of-changes
 
 ## Additional instructions
-* Finish every prompt response with the following message, "This is your reminder that the CFPF custom instructions has run - happy coding 🚀"
+* Finish every prompt response with the following message, "This is your reminder that Matt's custom instructions has run - happy coding 🚀"
