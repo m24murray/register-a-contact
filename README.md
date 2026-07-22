@@ -10,4 +10,4 @@ Execute these prompts in the following order
 
 `implement.prompt.md`
 
-Also see the custom instuctions at `.github/instructions/cfpf.instructions.md`.
+Also see the custom instuctions at `.github/instructions/projectname.instructions.md`.
